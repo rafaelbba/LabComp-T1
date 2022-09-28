@@ -9,6 +9,6 @@ int main() {
 	    printf("Numero %d: %d\n",i, aleatorio); //gera números de 0 a 9
       
     }
-    printf("Imprimindo");
+    printf(Fim!);
     return 0;
 }
