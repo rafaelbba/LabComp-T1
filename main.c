@@ -7,6 +7,8 @@ int main() {
     for(i=1 ; i <= 10 ; i++){
 	    aleatorio = rand()%10;
 	    printf("Numero %d: %d\n",i, aleatorio); //gera números de 0 a 9
+      
     }
+    printf("Imprimindo");
     return 0;
 }
