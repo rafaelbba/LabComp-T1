@@ -10,5 +10,6 @@ int main() {
       
     }
     printf("Imprimindo");
+    printf("\ntchau!!");
     return 0;
 }
